@@ -64,7 +64,6 @@ const Navigation = (props) => {
             if (item.toLowerCase()
                 .includes(searchVal.toLowerCase())) { return item; }
         })
-        console.log('filterBySearch', filterBySearch)
         let filterSearch
         if (filterBySearch.length > 1) {
             filterSearch = all.filter((item) => item.title === filterBySearch[0] || item.category === filterBySearch[0])
@@ -72,7 +71,6 @@ const Navigation = (props) => {
             filterSearch = all.filter((item) => item.title === filterBySearch[0] || item.category === filterBySearch[0])
 
         }
-        console.log('filterSearch', filterSearch)
         setFilterItem(filterSearch);
 
     }

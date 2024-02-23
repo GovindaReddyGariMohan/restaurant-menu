@@ -48,6 +48,7 @@
 .remove-search {
     display: none;
 }
+
 @media only screen and (max-width: 950px) {
     .nav-bar {
         display: block;
@@ -99,10 +100,10 @@
     }
 
     .navigation .serch-bar {
-        
+
         left: 270px;
         font-size: 20px;
-       
+
     }
 
     .res-input {
@@ -201,7 +202,7 @@
     .search-bar-responsive {
         display: block;
         margin-top: 10px;
-        color:white;
+        color: white;
         font-size: 35px;
         font-weight: 800;
     }

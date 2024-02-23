@@ -9,7 +9,7 @@ const Video = () => {
         if (stop === true) {
             videoRef.current.pause();
         } else {
-            videoRef.current.play(); 
+            videoRef.current.play();
         }
     }
     return (

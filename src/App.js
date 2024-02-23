@@ -6,12 +6,11 @@ import { useState } from 'react';
 import Items from './Constants/Items';
 function App() {
   const [filterItems, setFilteritems] = useState(Items)
-  console.log('filterItems',filterItems)
   return (
     <div className="App">
-      <Navigation  sItems={setFilteritems} all={Items}/>
+      <Navigation sItems={setFilteritems} all={Items} />
       <Video />
-      <Menuitems FItems={filterItems}/>
+      <Menuitems FItems={filterItems} />
     </div>
   );
 }

@@ -2,9 +2,8 @@ import React from "react"
 import './menuitems.css'
 const Menuitems = (props) => {
     const lItems = props.FItems
-    console.log('LItems', lItems.length)
-    return ( 
-        <div className="menuItems"> 
+    return (
+        <div className="menuItems">
             {
                 lItems.map((value) => {
                     return (
