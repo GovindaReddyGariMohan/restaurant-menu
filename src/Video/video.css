@@ -1,0 +1,27 @@
+video {
+  height: 700px;
+  aspect-ratio: auto;
+  width: 83%;
+  padding: 50px 0px;
+
+}
+
+@media only screen and (max-width: 950px) {
+  video {
+    height: 387px;
+    aspect-ratio: initial;
+    width: 83%;
+    padding: 30px 0px;
+
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  video {
+    height: 287px;
+    aspect-ratio: initial;
+    width: 83%;
+    padding: 0px 0px;
+
+  }
+}
