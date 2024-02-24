@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Demo :: https://github.com/GovindaReddyGariMohan/restaurant-menu](https://github.com/GovindaReddyGariMohan/restaurant-menu).
 
 ## Available Scripts
 
