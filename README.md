@@ -1,6 +1,6 @@
 # Demo
 
-This project was bootstrapped with [Demo :: https://github.com/GovindaReddyGariMohan/restaurant-menu](https://github.com/GovindaReddyGariMohan/restaurant-menu).
+This project was bootstrapped with [Demo :: [https://github.com/GovindaReddyGariMohan/restaurant-menu]([https://govindareddygarimohan.github.io/restaurant-menu/](https://govindareddygarimohan.github.io/restaurant-menu/))](https://github.com/GovindaReddyGariMohan/restaurant-menu).
 
 ## Available Scripts
 
